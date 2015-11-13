@@ -5,6 +5,7 @@ public class Sample {
 for (int i =1; i<10;i++){
 System.out.println("No No Yes Yes");
 System.out.println("right");
+System.out.println("Track the steps");
 }
 }
 
